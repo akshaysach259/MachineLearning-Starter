@@ -1,8 +1,8 @@
-# Importing libraries
+# Importing Libraries
 # Read CSV
-# Seprating Dependent and Independent VAriables
-# reaplacing nan data with mean
-# converting String data to number
+# Seprating Dependent and Independent Variables
+# Replacing nan data with mean
+# Converting String data to number
 # Seprating Training data and test Data
 
 
