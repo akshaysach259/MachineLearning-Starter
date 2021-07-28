@@ -1,1 +1,1 @@
-# MachineLearning-Starter
+# Machine Learning-Starter
